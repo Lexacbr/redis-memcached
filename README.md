@@ -51,7 +51,7 @@ add key 0 20 8
 ``` 
 где `20` - это секунды жизни самого ключа, а `8`- это количество Байт, затраченных на запись. Поскольку символов в слове `netology` `8` я указал именно это количество. В других примерах есть пробел и его тоже необходимо учитывать, потомучто он тоже символ.
 
-![memc](https://github.com/Lexacbr/redis-memcached/blob/main/scrsh/memc.png)
+![key](https://github.com/Lexacbr/redis-memcached/blob/main/scrsh/key.png)
 ------
 
 ### Задание 4. Запись данных в Redis
