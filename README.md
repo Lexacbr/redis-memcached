@@ -32,7 +32,7 @@ sudo systemctl status memcached
 ```
 и получаю вот такой результат:
 
-[memc]()
+![memc](https://github.com/Lexacbr/redis-memcached/blob/main/scrsh/memc.png)
 
 ---
 ### Задание 3. Удаление по TTL в Memcached
